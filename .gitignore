@@ -7,4 +7,5 @@ dist/
 # Logs and env files
 *.log
 .env
-.env.*
+.env.*mint-app/
+node_modules
